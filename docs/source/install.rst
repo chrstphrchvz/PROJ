@@ -122,7 +122,7 @@ On OS X PROJ can be installed via the Homebrew package manager::
 
 PROJ is also available from the MacPorts system::
 
-    sudo ports install proj
+    sudo port install proj7
 
 Compilation and installation from source code
 ################################################################################
